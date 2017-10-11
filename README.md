@@ -7,7 +7,7 @@ It's all about A/B testing
 
 [Slide Show](https://docs.google.com/presentation/d/1j6UUaVjuDd6EDsg4qpFjTRSg3hZQwrIE7AVniecaJEM/edit?usp=sharing)
 
-[Video](https://docs.google.com/presentation/d/1j6UUaVjuDd6EDsg4qpFjTRSg3hZQwrIE7AVniecaJEM/edit?usp=sharing)
+[Video](https://youtu.be/H0XMlJdJCcY)
 
 It is a real time A/B testing platform that can perform A/B testing and calculate search click through rate for control and test groups in real time, using search data from Avito.com, which is one of biggest e-commerce website in Russia
 
